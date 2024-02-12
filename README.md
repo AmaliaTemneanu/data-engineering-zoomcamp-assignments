@@ -9,7 +9,7 @@ This repository is organized into folders, each corresponding to a specific modu
 
 - [Assignment 1](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/01-docker-terraform/homework.md): in this homework we'll prepare the environment and practice with Docker and SQL.
 - [Assignment 2](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/02-workflow-orchestration/homework.md): the goal will be to construct an ETL pipeline that loads the data, performs some transformations, and writes the data to a database (and Google Cloud).
-- [Assignment 3](assignment3/): Description of Assignment 3.
+- [Assignment 3](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/03-data-warehouse/homework.md): for this homework we will be using the 2022 Green Taxi Trip Record Parquet Files from the New York City Taxi Data and perform queries in Big Query dwh.
 - ...
 
 Please feel free to explore the assignments, review the instructions, and access the resources I've provided.
