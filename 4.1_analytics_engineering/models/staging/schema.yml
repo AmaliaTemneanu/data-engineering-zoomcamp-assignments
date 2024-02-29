@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: crafty-ring-411313
+    schema: trips_data_all
+
+    tables:
+      - name: green_tripdata
