@@ -70,7 +70,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-.ipynb
 
 # pyenv
 .python-version
@@ -145,6 +144,11 @@ terraform.rc
 *.csv
 *.xlsx
 *.gz
+*.parquet.crc
+*.parquet
+*.crc
+data/
+tmp/
 ny_taxi_postgres_data/
 
 !docker-compose.yaml
